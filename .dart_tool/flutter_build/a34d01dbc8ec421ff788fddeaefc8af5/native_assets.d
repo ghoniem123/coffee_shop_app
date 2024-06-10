@@ -1,0 +1,1 @@
+ C:\\Users\\PC\\Desktop\\mobile\ project\\coffee_shop\\.dart_tool\\flutter_build\\a34d01dbc8ec421ff788fddeaefc8af5\\native_assets.yaml: 

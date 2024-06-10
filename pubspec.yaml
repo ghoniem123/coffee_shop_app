@@ -1,0 +1,37 @@
+name: coffee_shop
+description: "A new Flutter project."
+publish_to: 'none'  # This prevents the package from being accidentally published.
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  convert: ^3.1.1
+  http: ^1.2.1
+  provider: ^6.1.2
+  flutter_hooks: ^0.20.5
+  intl: ^0.19.0
+  uuid: ^4.4.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/logo.png
+
+  # fonts:
+  #   - family: RobotoSlab
+  #     fonts:
+  #       - asset: fonts/RobotoSlab-Regular.ttf
+  #       - asset: fonts/RobotoSlab-Bold.ttf
+  #         weight: 700
